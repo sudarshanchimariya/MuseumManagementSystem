@@ -1,0 +1,30 @@
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\bin\Debug\MuseumManagementSystem.exe.config
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\bin\Debug\MuseumManagementSystem.exe
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\bin\Debug\MuseumManagementSystem.pdb
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\obj\Debug\MuseumManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\obj\Debug\MuseumManagementSystem.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\obj\Debug\MuseumManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\obj\Debug\MuseumManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\obj\Debug\MuseumManagementSystem.exe
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\obj\Debug\MuseumManagementSystem.pdb
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumVisitorLog-master\MuseumLog\MuseumLog\obj\Debug\MuseumManagementSystem.MainDashboardForm.resources
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\MuseumManagementSystem.exe.config
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\MuseumManagementSystem.exe
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\bin\Debug\MuseumManagementSystem.pdb
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.MainDashboardForm.resources
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.exe
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.pdb
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\bin\Debug\MuseumManagementSystem.exe.config
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\bin\Debug\MuseumManagementSystem.exe
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\bin\Debug\MuseumManagementSystem.pdb
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.csprojAssemblyReference.cache
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.MainDashboardForm.resources
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.Properties.Resources.resources
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.exe
+C:\Users\user\Desktop\AD\2018-19 A CS6004NI A1 CW Course Work 16034855 Sudarshan Chimariya\MuseumManagementSystem\obj\Debug\MuseumManagementSystem.pdb

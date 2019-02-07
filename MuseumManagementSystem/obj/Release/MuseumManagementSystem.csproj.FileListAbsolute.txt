@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\bin\Release\MuseumManagementSystem.exe.config
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\bin\Release\MuseumManagementSystem.exe
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\bin\Release\MuseumManagementSystem.pdb
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Release\MuseumManagementSystem.MainDashboardForm.resources
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Release\MuseumManagementSystem.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Release\MuseumManagementSystem.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Release\MuseumManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Release\MuseumManagementSystem.exe
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Release\MuseumManagementSystem.pdb
+C:\Users\user\Documents\Visual Studio 2017\MuseumVisitorLog-master\MuseumManagementSystem\MuseumManagementSystem\MuseumManagementSystem\obj\Release\MuseumManagementSystem.csprojAssemblyReference.cache
